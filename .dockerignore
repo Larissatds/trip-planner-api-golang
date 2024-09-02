@@ -1,0 +1,6 @@
+# Ignore arquivos de configuração locais
+.env
+
+# Ignore diretórios que não são necessários no container
+/node_modules
+/.git
