@@ -43,7 +43,7 @@ A API de planejador de viagens tem como objetivo fornecer funcionalidades para g
 
 2. **Crie um arquivo .env com as seguintes variáveis de ambiente:**
    ```bash
-   JOURNEY_DATABASE_HOST=db
+   JOURNEY_DATABASE_HOST_DOCKER=db
    JOURNEY_DATABASE_PORT=5432
    JOURNEY_DATABASE_NAME=seubanco
    JOURNEY_DATABASE_USER=seuusuario
